@@ -10,3 +10,4 @@ The colorizer requires a zip file containing an empty folder, and unfortunately 
 
 ## Organize zips
 Put all your black and white images into one directory, and make an empty folder in the directory titled "result_images". 
+![prezip](https://raw.githubusercontent.com/scheirer-cassie/batch_colorizer/master/images/prezip.png)
