@@ -37,3 +37,10 @@ In the Google Colab program, navigate down to the bottom of the script and enter
 
 ## Run the program
 On the top left of the Colab program, go to Runtime --> Run all and watch the magic! Just follow the prompts of the script from this point. If done correctly, all of your black and white zips will have converted to colorized zips, which can be found in your colorized folder.
+
+# RESOURCES
+* [DeOldify](https://github.com/jantic/DeOldify)
+* [Golan Levin](https://github.com/golanlevin)
+* [STUDIO for Creative Inquiry](https://github.com/creativeinquiry)
+* [PyDrive](https://pythonhosted.org/PyDrive/)
+* [Google Drive API](https://developers.google.com/drive/api/v3/about-sdk)
