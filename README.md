@@ -30,9 +30,9 @@ Make two new folders on your Google Drive, one where you will upload the black a
 ![folders](images/folders.PNG)
 
 ## Define folder variables
-In the Google Colab program, navigate down to the bottom of the script and enter in the ID of the black and white folder, the title of the black and white folder, and the title of the colorized folder. The ID of the black and white folder is the series of numbers and letters after the last slash in the URL of that folder.
+In the Google Colab program, navigate down to the bottom of the script and enter in the ID of the black and white folder, the title of the black and white folder, and the title of the colorized folder. The ID of the black and white folder is the series of numbers and letters after the last slash in the URL of that folder. The path of the colorized folder will always be "/content/gdrive/"My Drive"/" plus the title of the color folder.
 
-![colabvariables](images/colabvariables.PNG)
+![variablenames](images/variablenames.PNG)
 ![insidezipfolder](images/insidezipfolder.PNG)
 
 ## Run the program
