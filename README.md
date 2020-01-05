@@ -2,7 +2,7 @@
 A Google Colab program that automatically colorizes large amounts of black and white images.
 
 # HOW TO USE
-## Windows Only: Download 7zip
+## Windows: Download 7zip
 The colorizer requires a zip file containing an empty folder, and unfortunately Windows 10 automatically deletes empty folders in a zip file. The software 7zip overrides this.
 
 * Windows 32-bit : https://www.7-zip.org/a/7z1900.exe
@@ -36,4 +36,4 @@ In the Google Colab program, navigate down to the bottom of the script and enter
 ![insidezipfolder](images/insidezipfolder.PNG)
 
 ## Run the program
-On the top left of the Colab program, go to Runtime --> Run all and watch the magic! Just follow the prompts of the script from this point. If done correctly, all  
+On the top left of the Colab program, go to Runtime --> Run all and watch the magic! Just follow the prompts of the script from this point. If done correctly, all of your black and white zips will have converted to colorized zips, which can be found in your colorized folder.
