@@ -36,7 +36,7 @@ In the Google Colab program, navigate down to the bottom of the script and enter
 ![insidezipfolder](images/insidezipfolder.PNG)
 
 ## Run the program
-On the top left of the Colab program, go to Runtime --> Run all and watch the magic! Just follow the prompts of the script from this point. The program will print updates in the terminal as each photo/zip is being colorized, and it will print "COLORIZING COMPLETE!" when all zips have been colorized. If done correctly, all of your black and white zips will have converted to colorized zips, which can be found in your colorized folder.
+On the top left of the Colab program, go to Runtime --> Run all and watch the magic! Just follow the prompts of the script from this point. In the beginning pyDrive and the Google Drive API will ask you to authenticate their use of your Google Drive files--make sure you authenticate the email that has the zip files on its drive. The program will print updates in the terminal as each photo/zip is being colorized, and it will print "COLORIZING COMPLETE!" when all zips have been colorized. If done correctly, all of your black and white zips will have converted to colorized zips, which can be found in your colorized folder.
 
 # RESOURCES
 * [DeOldify](https://github.com/jantic/DeOldify)
